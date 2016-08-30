@@ -1,0 +1,1 @@
+function detect_multiple_min
